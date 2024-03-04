@@ -10,7 +10,7 @@ Welcome to Zweckverband Erholungswesen Zschornewitz (ZEZ) !
 
 Here you will find all the basic info for the house. Please be sure to complete the [Exit Checklist](#exit-checklist) before you leave 🍄
 
-<a id="deutsch" href="#">🇩🇪 auf Deutsch bitte !</a>
+<a id="deutsch" href="#">auf Deutsch bitte !</a>
 
 ## Index {#index}
 
