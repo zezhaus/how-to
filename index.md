@@ -101,7 +101,7 @@ Feel free to use our [Telegram Group](https://t.me/+diD1q9Kbf8k1ZjFi).
 - Kimchi Salon (1-2 sleeping places)
 - Butterfly Hotel (1-2 sleeping places)
 - Twerkstat (occupied)
-- Milchstaß (occupied)
+- Milchstraß (occupied)
 
 #### Second Floor
 - Guest Room/Aquarium (2 sleeping places)
@@ -111,7 +111,7 @@ Feel free to use our [Telegram Group](https://t.me/+diD1q9Kbf8k1ZjFi).
 
 ### 🥕 Kitchen & Food {#kitchen}
 
-Please help yourself to anything in the fridge. If there's anything you would like from the shop, add it to the grocery list (check the fridge). We usually cook one group meal per day in the evenings.
+Please help yourself to anything in the fridge or the cupboards. If there's anything you would like from the shop, add it to the grocery list (check the fridge). We usually cook one group meal per day in the evenings.
 
 #### Trash
 Please sort your trash :) There’s an overview on the kitchen wall. When you’ve mastered recycling in Germany you’ll be granted moral citizenship automatically.
@@ -121,7 +121,7 @@ Please sort your trash :) There’s an overview on the kitchen wall. When you’
 - Paper (no handkerchiefs) &rarr; **Kitchen**
 - Glass (food containers, wine and sparkling wine bottles) &rarr; **Outside** in front of the front stairs
 - Pfand (all cans that had drinks in them, plastic bottles and beer/soda bottles) &rarr; **Outside** in front of the front stairs
-- Food scraps/Biomüll (no meat) &rarr; green compost box
+- Food scraps/Biomüll (no meat) &rarr; **Kitchen** green compost box
 
 #### Compost / Biomüll
 - empty kitchen bin into the compost pile in the garden. See map by the kitchen door or ask a housemate. 
