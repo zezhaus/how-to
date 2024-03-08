@@ -99,7 +99,7 @@ strong {
 }
 
 #deutsch:active, #deutsch:hover {
-  background-color: tomato;
+  background-color: dodgerblue;
   color: cornsilk;
 }
 
@@ -116,4 +116,9 @@ strong {
 .toplink:active, .toplink:hover {
   background-color: dodgerblue;
   color: cornsilk;
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
