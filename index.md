@@ -10,7 +10,11 @@ Welcome to Zweckverband Erholungswesen Zschornewitz (ZEZ) !
 
 Here you will find all the basic info for the house. Please be sure to complete the [Exit Checklist](#exit-checklist) before you leave 🍄
 
-<a id="deutsch" href="#">auf Deutsch bitte !</a>
+For current heating info see [🥵 Heating](#heating).
+
+Deutsch version coming soon x
+
+<!-- <a id="deutsch" href="#">auf Deutsch bitte !</a> -->
 
 *Last Updated March 2024*
 
@@ -169,8 +173,8 @@ While it’s cold we try to keep the fire going 24/7 and ventilate the air to th
 <a class="toplink" href="#index">&uarr; back to index</a>
 
 ### 🥵 Heating {#heating}
-- The central heating turns off at night, so if the hot water tank is used up, there’ll be new hot water in the morning only (but it’s enough to take a shower or two)
-- Currently the hot water is set from **8 am and 11 am**, and again from **6 pm to 9 pm**
+- Hot water should always be available throughout the day. It is being produced during these times: 8:30-11:30, 14-14:20, and 19-22.
+- Currently the heating is set to run from **8 - 11**, and again from **19-22:30**
 - When a room is heated with heaters, keep the door closed
 - When a room is not in use, turn down the thermostat and close the door
 - Thermostat numbers determine at what temperature the valve is being closed, so turning it to a higher number does not heat your room more quickly.
@@ -228,22 +232,9 @@ We have bikes to borrow. Just ask.
 
 ## Exit Checklist {#exit-checklist}
 
-TBA
+Coming soon !
 
 <a class="toplink" href="#index">&uarr; back to index</a>
-
-
-
-
-
-
-
-
-<details><summary>CLICK ME</summary>
-
-here is the stuff
-
-</details>
 
 
 
