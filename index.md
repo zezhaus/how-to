@@ -178,7 +178,7 @@ While it’s cold we try to keep the fire going 24/7 and ventilate the air to th
 - When a room is heated with heaters, keep the door closed
 - When a room is not in use, turn down the thermostat and close the door
 - Thermostat numbers determine at what temperature the valve is being closed, so turning it to a higher number does not heat your room more quickly.
-- Home heating centre, accessible on our home wifi [http://homeassistant.local:8123](http://homeassistant.local:8123)
+- Home heating centre, accessible on our home wifi [http://homeassistant.local:8123](http://homeassistant.local:8123). You can use the username `guest`and password `guest`.
 
 <a class="toplink" href="#index">&uarr; back to index</a>
 
