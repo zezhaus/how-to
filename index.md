@@ -69,17 +69,18 @@ Zahlenschlossfahrrad in Burgkemnitz
 ## 💶 Costs {#costs}
 
 ### Short Stays
-- Food is €6/day, which includes all meals, snacks, and drinks. We prefer cash (deposited in the Pink Wallet by the kitchen), but can also accept Paypal, address [@zschoenesleben](https://paypal.me/zschoenesleben).
+- Food is €7/day, which includes all meals, snacks, and drinks. We prefer cash (deposited in the Pink Wallet by the kitchen), but can also accept Paypal, address [@zschoenesleben](https://paypal.me/zschoenesleben).
 - Accommodation in the house is €15/night. We can take cash or EU bank transfer. Ask Patty for our house IBAN.
 - please ask us about solidarity rates.
 
 ### Longer Stays
 - our rent is €450 per month, which includes all bills. Please ask Patty for the house IBAN.
-- Food is still €6/day or €186/month, via cash or paypal.
+- Food is still €7/day or €210/month, via cash or paypal.
 - we also offer solidarity rates.
 
-### Tricount
-- Ask Patty (who is responsible for finances) to show you how to use the Tricount if you are staying for more than one month. 
+### Food calender
+- In the calendar we keep track of the days we're at ZEZ and mark the days we have paid food money for.
+- Please refer to the poster next to the calendar for information on how to updated the calendar. 
 
 <a class="toplink" href="#index">&uarr; back to index</a>
 
@@ -100,8 +101,8 @@ Feel free to use our [Telegram Group](https://t.me/+diD1q9Kbf8k1ZjFi).
 - Sun Room (3-6 sleeping places)
 - Kimchi Salon (1-2 sleeping places)
 - Butterfly Hotel (1-2 sleeping places)
-- Twerkstat (occupied)
-- Milchstraß (occupied)
+- Twerkstatt (occupied)
+- Milchstraße (occupied)
 
 #### Second Floor
 - Guest Room/Aquarium (2 sleeping places)
@@ -174,8 +175,8 @@ While it’s cold we try to keep the fire going 24/7 and ventilate the air to th
 
 ### 🥵 Heating {#heating}
 - Hot water should always be available throughout the day. It is being produced during these times: 8:30-11:30, 14-14:20, and 19-22.
-- Currently the heating is set to run from **8 - 11**, and again from **19-22:30**
-- When a room is heated with heaters, keep the door closed
+- Currently the heating is **off**
+- To heat a room, leave the door open to let the woodburing heat in
 - When a room is not in use, turn down the thermostat and close the door
 - Thermostat numbers determine at what temperature the valve is being closed, so turning it to a higher number does not heat your room more quickly.
 - Home heating centre, accessible on our home wifi [http://homeassistant.local:8123](http://homeassistant.local:8123)
@@ -184,7 +185,7 @@ While it’s cold we try to keep the fire going 24/7 and ventilate the air to th
 
 ### 🧺 Laundry {#laundry}
 
-- There are 2 machines in the basement in the boiler room. Go to the basement and take two doors on your right hand side
+- There is a laundry machine in the basement in the boiler room. Go to the basement and take two doors on your right hand side
 - It's better to use too little than too much detergent (bad for machine and your laundry). Aim for 1-2 shots.
 - Leave the tray and door open after use for ventilation in the machines
 - Please dry laundry on a drying rack in a heated room or outside
