@@ -16,7 +16,7 @@ Deutsch version coming soon x
 
 <!-- <a id="deutsch" href="#">auf Deutsch bitte !</a> -->
 
-*Last Updated March 2024*
+*Last Updated 26 April 2024*
 
 ## Index {#index}
 
