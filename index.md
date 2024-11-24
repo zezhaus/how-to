@@ -379,6 +379,35 @@ Wenn es kalt ist, versuchen wir, das Feuer 24/7 am Brennen zu halten und die Luf
 1. Legen Sie eine gute Menge kleiner Äste oder Rinde obenauf, stapeln Sie sie in 2-3 Schichten und lassen Sie Platz für den Luftstrom.
 2. Zünden Sie den Feuerstarter an und legen Sie ihn zwischen oder auf die Ästchen, schließen Sie die Tür schnell.
 
+#### Das Feuer am Laufen halten
+1. Achtung: Alle Griffe sind zu heiß, um sie zu berühren, verwenden Sie die roten Ofenhandschuhe!
+2. Öffnen Sie die Tür nur, wenn keine Flammen mehr zu sehen sind, nehmen Sie ein Metallwerkzeug und bewegen Sie die Glut (Asche fällt ab und der Luftstrom wird verbessert).
+   - Keine Sorge, wenn nur noch wenig Glut übrig ist, es wird wieder Feuer fangen, solange der Ofen noch heiß ist.
+3. Wenn Sie mehr Holz auf das Feuer legen, verwenden Sie „Langholz“, es brennt länger.
+   - Oben: Verwenden Sie 2 Scheite.
+   - Unten: Verwenden Sie 1 Scheit.
+4. Lassen Sie für ein bis zwei Minuten die Luftsteuerungen offen oder öffnen Sie sie.
+5. Wenn das Holz gut brennt und überall schwarz ist, reduzieren Sie den Luftstrom.
+   - Unten: Schieben Sie den Luftventil *über* dem Glas ganz nach links, schieben Sie den Ventil *unter* dem Glas fast vollständig nach links.
+   - Oben: Drehen Sie die Luftsteuerung neben der Aschenschublade (hinter der unteren Tür) auf fast 0 (gegen den Uhrzeigersinn).
+   - Beide: Drehen Sie die Luftsteuerung am Rohr auf etwa 45° zur Rohrrichtung oder ein Stück weiter.
+   - Die Flammen sollten langsamer brennen, aber immer noch hell und freundlich sein. Wenn sie anfangen, dunkler zu werden und weit vom Holz entfernt sind, öffnen Sie das Rohrventil wieder ein wenig. Es kann eine Minute dauern, um den optimalen Punkt für ruhige, helle Flammen zu finden.
+
+#### Erkenntnisse
+- Das Holz sollte sauber brennen, ohne Rauch.
+- Wenn Sie schwarzen Ruß auf dem Glas und den Wänden sehen, versuchen Sie, die Temperatur zu erhöhen, indem Sie den Luftstrom erhöhen.
+- Schließen Sie die Luftsteuerungen nicht zu sehr. Das Verhungern des Feuers von Luft kann giftige Gase erzeugen, zu Blitzfeuern (Gasdetonationen) führen und übermäßige Rußansammlungen können zu Schornsteinbränden führen. Die Flammen sollten immer hell und freundlich sein.
+
+<a class="toplink" href="#index">&uarr; zurück zum Index</a>
+
+### 🥵 Heizung {#heating}
+- Warmes Wasser sollte den ganzen Tag über verfügbar sein. Es wird in diesen Zeiten produziert: 6:30–9:30, 14:00–14:20 und 19:00–22:00.
+- Um ein Zimmer auf einem Stockwerk mit einem Holzofen zu heizen, lassen Sie die Tür tagsüber offen, damit die Wärme hereinkommen kann.
+- Wenn ein Zimmer nicht benutzt wird, stellen Sie das Thermostat herunter und schließen Sie die Tür.
+- Derzeit ist die Öl-Heizung **morgens und abends** eingeschaltet. Bitte lassen Sie das Thermostat auf 19°C eingestellt, was die Standard-Zimmertemperatur ist, auf die wir uns geeinigt haben. Sie können es höher stellen, aber denken Sie bitte daran, es wieder zurückzustellen.
+- Die Zahlen des Thermostats bestimmen, bei welcher Temperatur das Ventil geschlossen wird. Wenn Sie es auf eine höhere Zahl drehen, heizt das Zimmer nicht schneller.
+- Home Assistant, unser Smart-Home-System, ist über unser Heim-WLAN zugänglich [http://homeassistant.local:8123](http://homeassistant.local:8123). Sie können den Benutzernamen `guest` und das Passwort `guest` verwenden.
+
 <a class="toplink" href="#index-de">&uarr; zurück zum Index</a>
 
 ### 🧺 Wäsche {#laundry}
