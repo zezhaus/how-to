@@ -96,8 +96,8 @@ Feel free to use our [Telegram Group](https://t.me/+diD1q9Kbf8k1ZjFi).
 - Sun Room (3-6 sleeping places, Leo)
 - Kimchi Salon (Eve)
 - Butterfly Hotel (Kay)
-- Twerkstatt (occupied, Johanna)
-- Milchstraße (occupied, Patty)
+- Twerkstatt (Johanna)
+- Milchstraße (Patty)
 
 #### Second Floor
 - Guest Room/Aquarium (2 sleeping places)
@@ -160,16 +160,16 @@ While it’s cold we try to keep the fire going 24/7 and ventilate the air to th
 #### Keeping the fire alive
 1. At this point: Caution, all the handles are too hot to be touched, use the red oven mitts!
 1. Open the door only when there are no more flames, take a metal tool and move the embers around (ash falls down and airflow is better)
-	- Don’t worry if there is only little embers left, it’ll catch fire so long the stove is hot still
+- Don’t worry if there is only little embers left, it’ll catch fire so long the stove is hot still
 1. When putting more wood on the fire, use "slow wood", it will burn for longer
-	- Upstairs: use 2 logs
-	- Downstairs: use 1 log
+- Upstairs: use 2 logs
+- Downstairs: use 1 log
 1. For a minute or 2, keep the air controls open or open them
 1. When the logs burn well and are black all over, reduce airflow
-	- Downstairs: Push the air vent *above* the glass all the way to the left, push the vent *below* the glass almost completely to the left
-	- Upstairs: Turn the air control next to the ash drawer (behind lower door) to almost 0 (counter-clockwise)
-	- Both: Turn the air control on the pipe to an angle of about 45° to the pipe direction or a bit further
-	- The flames should be slower but still bright and friendly. If they start to get darker and are far away from the wood, open the pipe valve back up a little bit. It may take a minute to find the sweet spot of calm bright flames
+- Downstairs: Push the air vent *above* the glass all the way to the left, push the vent *below* the glass almost completely to the left
+- Upstairs: Turn the air control next to the ash drawer (behind lower door) to almost 0 (counter-clockwise)
+- Both: Turn the air control on the pipe to an angle of about 45° to the pipe direction or a bit further
+- The flames should be slower but still bright and friendly. If they start to get darker and are far away from the wood, open the pipe valve back up a little bit. It may take a minute to find the sweet spot of calm bright flames
 
 #### Learnings
 - The wood should burn cleanly, without smoke
@@ -249,18 +249,18 @@ Coming soon !
 - [📍 Anreise](#getting-here-de)
 - [💶 Kosten](#costs-de)
 - [🏡 Im Haus](#at-the-haus-de)
-  - [🪴 Zimmer](#rooms-de)
-  - [🥕 Küche & Essen](#kitchen-de)
-  - [🛏 Bettwäsche & Handtücher](#sheets-de)
-  - [🪵 Kamin & Holz](#fireplace-de)
-  - [🥵 Heizung](#heating-de)
-  - [🧺 Wäsche](#laundry-de)
-  - [🧹 Hausarbeit](#chores-de)
-  - [🔧 Werkstatt & Werkzeuge](#workshop-de)
+	- [🪴 Zimmer](#rooms-de)
+	- [🥕 Küche & Essen](#kitchen-de)
+	- [🛏 Bettwäsche & Handtücher](#sheets-de)
+	- [🪵 Kamin & Holz](#fireplace-de)
+	- [🥵 Heizung](#heating-de)
+	- [🧺 Wäsche](#laundry-de)
+	- [🧹 Hausarbeit](#chores-de)
+	- [🔧 Werkstatt & Werkzeuge](#workshop-de)
 - [🏝 Um das Haus herum](#around-the-haus-de)
-  - [🦆 Wie man zum See kommt](#lake-de)
-  - [🚲 Fahrräder](#bikes-de)
-  - [🛒 Supermarkt/Läden/Briefkasten](#shops-de)
+	- [🦆 Wie man zum See kommt](#lake-de)
+	- [🚲 Fahrräder](#bikes-de)
+  	- [🛒 Supermarkt/Läden/Briefkasten](#shops-de)
 - [✔️ Auscheckliste](#exit-checklist-de)
 
 ## 📍 Anreise {#getting-here-de}
@@ -372,9 +372,9 @@ Wenn es kalt ist, versuchen wir, das Feuer 24/7 am Brennen zu halten und die Luf
 
 #### Wie man ein Feuer macht
 1. Öffnen Sie alle Luftsteuerungen für maximalen Luftstrom, um den Ofen mit der ersten Holzrunde so heiß wie möglich zu machen.
-   - **Öffnen Sie die Steuerung am Ofenrohr.** Offen = parallel zur Richtung des Rohres
-   - Unten: Schieben Sie die 2 Luftsteuerungen über und unter dem Glas nach rechts (offen)
-   - Oben: Öffnen Sie die untere Tür und drehen Sie die Luftsteuerung im Uhrzeigersinn auf 5-6
+- **Öffnen Sie die Steuerung am Ofenrohr.** Offen = parallel zur Richtung des Rohres
+- Unten: Schieben Sie die 2 Luftsteuerungen über und unter dem Glas nach rechts (offen)
+- Oben: Öffnen Sie die untere Tür und drehen Sie die Luftsteuerung im Uhrzeigersinn auf 5-6
 1. Nehmen Sie 2 Scheite "Fast Wood" und legen Sie sie bündig zum Boden, lassen Sie etwas Platz, damit Luft hineinkommen kann.
 1. Legen Sie eine gute Menge kleiner Äste oder Rinde obenauf, stapeln Sie sie in 2-3 Schichten und lassen Sie Platz für den Luftstrom.
 2. Zünden Sie den Feuerstarter an und legen Sie ihn zwischen oder auf die Ästchen, schließen Sie die Tür schnell.
