@@ -247,22 +247,28 @@ Coming soon !
 ## Inhaltsverzeichnis {#index-de}
 
 <ul class="index">
-- [📍 Anreise](#getting-here-de)
-- [💶 Kosten](#costs-de)
-- [🏡 Im Haus](#at-the-haus-de)
-	- [🪴 Zimmer](#rooms-de)
-	- [🥕 Küche & Essen](#kitchen-de)
-	- [🛏 Bettwäsche & Handtücher](#sheets-de)
-	- [🪵 Kamin & Holz](#fireplace-de)
-	- [🥵 Heizung](#heating-de)
-	- [🧺 Wäsche](#laundry-de)
-	- [🧹 Hausarbeit](#chores-de)
-	- [🔧 Werkstatt & Werkzeuge](#workshop-de)
-- [🏝 Um das Haus herum](#around-the-haus-de)
-	- [🦆 Wie man zum See kommt](#lake-de)
-	- [🚲 Fahrräder](#bikes-de)
-  	- [🛒 Supermarkt/Läden/Briefkasten](#shops-de)
-- [✔️ Auscheckliste](#exit-checklist-de)
+	<li>[📍 Anreise](#getting-here-de)</li>
+	<li>[💶 Kosten](#costs-de)</li>
+	<li>[🏡 Im Haus](#at-the-haus-de)
+		<ul class="index">
+			<li>[🪴 Zimmer](#rooms-de)</li>
+			<li>[🥕 Küche & Essen](#kitchen-de)</li>
+			<li>[🛏 Bettwäsche & Handtücher](#sheets-de)</li>
+			<li>[🪵 Kamin & Holz](#fireplace-de)</li>
+			<li>[🥵 Heizung](#heating-de)</li>
+			<li>[🧺 Wäsche](#laundry-de)</li>
+			<li>[🧹 Hausarbeit](#chores-de)</li>
+			<li>[🔧 Werkstatt & Werkzeuge](#workshop-de)</li>
+		</ul>
+	</li>
+	<li>[🏝 Um das Haus herum](#around-the-haus-de)
+		<ul class="index">
+			<li>[🦆 Wie man zum See kommt](#lake-de)</li>
+			<li>[🚲 Fahrräder](#bikes-de)</li>
+  			<li>[🛒 Supermarkt/Läden/Briefkasten](#shops-de)</li>
+		</ul>
+	</li>
+	<li>[✔️ Auscheckliste](#exit-checklist-de)</li>
 </ul>
 
 ## 📍 Anreise {#getting-here-de}
