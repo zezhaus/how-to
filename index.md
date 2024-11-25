@@ -246,6 +246,7 @@ Coming soon !
 
 ## Inhaltsverzeichnis {#index-de}
 
+<ul class="index">
 - [📍 Anreise](#getting-here-de)
 - [💶 Kosten](#costs-de)
 - [🏡 Im Haus](#at-the-haus-de)
@@ -262,6 +263,7 @@ Coming soon !
 	- [🚲 Fahrräder](#bikes-de)
   	- [🛒 Supermarkt/Läden/Briefkasten](#shops-de)
 - [✔️ Auscheckliste](#exit-checklist-de)
+</ul>
 
 ## 📍 Anreise {#getting-here-de}
 
