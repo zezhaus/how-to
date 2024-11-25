@@ -37,6 +37,19 @@ ul:first-of-type {
   padding-left: 2rem;
 }
 
+ul.index {
+  list-style-type: none;
+  font-size: 1.5rem;
+  padding-left: 0;
+  margin-left: 0;
+  margin-bottom: 0;
+} ul.index li {
+  line-height: 3rem;
+  border-top: 1px solid dodgerblue;
+} ul.index li li {
+  padding-left: 2rem;
+}
+
 a {
   color: dodgerblue;
 }
